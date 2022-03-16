@@ -1,6 +1,6 @@
 (function(){
 	
-$("#name_index").html('Pack B2W 1.0 Beta - Gênus');
+$("#name_index").html('Pacsssssssssssssssk B2W 1.0 Beta - Gênus');
 
 
   document.write('<scr'+ 'IPT type="text/javascript" SRC="vendor/global/global.min.js"></SCRIPT>');
